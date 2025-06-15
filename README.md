@@ -1,6 +1,6 @@
 # Nomads Eat – Support
 
-For help, feedback or to report bugs, please email: support@yourdomain.com  
+For help, feedback or to report bugs, please email: nomads.eat@gmail.com
 Or open an issue here on GitHub.
 
 **FAQs, Troubleshooting, and Contact:**
