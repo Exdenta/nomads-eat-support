@@ -1,6 +1,6 @@
 # Privacy Policy for Nomads.Eat
 
-**Last Updated:** [Date of Last Update]
+**Last Updated:** 15.06.2025
 
 Welcome to Nomads.Eat ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
 
