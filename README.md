@@ -13,6 +13,7 @@ For help, feedback, or to report bugs, please contact us:
 -   [**Frequently Asked Questions (FAQ)**](./docs/faq.md)
 -   [Report a Bug](https://github.com/exdenta/nomads-eat-support/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
 -   [Request a Feature](https://github.com/exdenta/nomads-eat-support/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
+-   [**Privacy Policy**](./docs/PRIVACY_POLICY.md)
 
 ---
 
