@@ -7,7 +7,6 @@ If you need help, please contact us:
 -   **GitHub Issues**: [Open an Issue](https://github.com/exdenta/nomads-eat-support/issues)
 -   **[Frequently Asked Questions (FAQ)](./docs/faq.md)**
 -   [**Privacy Policy**](./docs/PRIVACY_POLICY.md)
--   [**Restaurant Menu Allergen API** — EU-14 allergen & nutrition data from Google Maps](./docs/menu-allergen-api.md)
 
 *Thank you for using Nomads Eat!*
 
